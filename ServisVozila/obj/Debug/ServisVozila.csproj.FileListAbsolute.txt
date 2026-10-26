@@ -1,0 +1,16 @@
+M:\alatcici\visual sstuidio dump\ServisVozila\bin\Debug\Database1.mdf
+M:\alatcici\visual sstuidio dump\ServisVozila\bin\Debug\Database1_log.ldf
+M:\alatcici\visual sstuidio dump\ServisVozila\bin\Debug\ServisVozila.exe.config
+M:\alatcici\visual sstuidio dump\ServisVozila\bin\Debug\ServisVozila.exe
+M:\alatcici\visual sstuidio dump\ServisVozila\bin\Debug\ServisVozila.pdb
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.csproj.AssemblyReference.cache
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.Klijenti.resources
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.Properties.Resources.resources
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.Start.resources
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.csproj.GenerateResource.cache
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.csproj.CoreCompileInputs.cache
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.exe
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.pdb
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.Vozila.resources
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.UnosKola.resources
+M:\alatcici\visual sstuidio dump\ServisVozila\obj\Debug\ServisVozila.Servisi.resources
